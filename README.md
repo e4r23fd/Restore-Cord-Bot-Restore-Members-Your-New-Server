@@ -13,6 +13,29 @@
 
 🔗 A bridge for Discord and [Revolt](https://revolt.chat) with easy setup through commands, written in TypeScript using [revolt.js](https://github.com/revoltchat/revolt.js).
 
+For example, if the card is a Green 7, you must play a Green card or any color 7. Or, you may play any Wild card or a Wild Draw 4 card. If you don't have anything that matches, you must pick a card from the DRAW pile and lose your turn by entering draw in your uno-channel. Each player can only play one card in their turn.
+
+Play a card by entering <color><value> in your uno-channel. For example, if you wish to play a Green 7, enter green7 in your uno-channel. Play a Wild Draw 4 by entering <color>+4. You may choose not to play a playable card from your hand. If so, you must draw a card.
+
+Winning
+When a player no longer has any cards and the game ends, they receive points. All opponents’ cards are given to the winner and points are counted. This also applies even if the last card is an Action card, such as a Draw Two or a Wild Draw 4 – The next player must draw the required cards which will then be tallied up.
+
+## Command list
+
+Instead of prefixes, Nessie uses Discord's new [Slash Commands](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ) `/`
+- `br`: map rotation for battle royale
+- `arenas`: map rotation for arenas
+- `control`: map rotation for control
+- `about`: information hub of Nessie
+- `help`: list of commands and how to use them
+- `invite`: generates Nessie's invite link
+- `updates`: shows the latest news and current update of Nessie
+
+## TODO
+- Automatic Map Status Updates
+- Add installation guide to this readme
+
+
 ## 📔 Features
 - [x] Bridge messages between platforms
 - [x] Bridge attachments
