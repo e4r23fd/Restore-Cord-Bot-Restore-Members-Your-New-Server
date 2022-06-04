@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/revcord.png" width="64px" />
+  <img src="![image](https://user-images.githubusercontent.com/106811566/172005587-8b21d1f3-15ff-469f-86bf-a8e9dcb81dca.png)" width="64px" />
 </p>
 
 <h1 align="center">revcord</h1>
