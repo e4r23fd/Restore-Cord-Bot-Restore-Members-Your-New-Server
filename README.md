@@ -1,6 +1,4 @@
-<p align="center">
-  ![image](https://user-images.githubusercontent.com/106811566/172005637-8065a21d-84e0-41d7-a424-cd7e2c0a12eb.png)
-</p>
+![image](https://user-images.githubusercontent.com/106811566/172005677-0d2ca2fa-3b59-4e12-8388-d475d49df1f7.png)
 
 <h1 align="center">revcord</h1>
 <p align="center">
